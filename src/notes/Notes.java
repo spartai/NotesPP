@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package notes;
-
+// csá dávid
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import javafx.application.Platform;
